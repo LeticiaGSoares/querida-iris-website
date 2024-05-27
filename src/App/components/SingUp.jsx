@@ -1,6 +1,12 @@
+import {Content} from '../styles/Main'
+import Form from './Form'
+import { ColorPalette } from '../styles/ColorPalette'
+
 const SignUp = () => {
     return (
-        <h1>Página SignUp</h1>
+        <Content style={{"background-color": `${ColorPalette.colors.Primary}`}}>
+            <Form alternativa={"login"}/>
+        </Content>
     )
 }
 

@@ -1,11 +1,11 @@
-import {Content, AutoLayout, SectionHalf} from '../styles/Main'
-import {Title, Text} from '../styles/Main'
+import {Content} from '../styles/Main'
+import Form from './Form'
+import { ColorPalette } from '../styles/ColorPalette'
 
 const Login = () => {
     return (
-        <Content>
-            <Title>Página Login</Title>
-            
+        <Content style={{"background-color": `${ColorPalette.colors.Primary}`}}>
+            <Form alternativa={"cadastro"}/>
         </Content>
     )
 }
