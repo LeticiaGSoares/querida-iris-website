@@ -1,0 +1,36 @@
+{
+    "bookDetails":{
+        "title": "Querida Íris,",
+        "subtitle": "eu não te esqueci",
+        "parentalRating": "+16",
+        "synopsis": "Lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "firstChapter": "https://docs.google.com/document/d/1K5gnaCVfKSu3gU9qSEYw755inWfRwnIFUkebtoHRUHk/edit?usp=sharing",
+        "spotifyPlaylist": "https://open.spotify.com/playlist/32URBbZuGwQOa2gDZJG7cH?si=45de6ff386334754"
+    },
+    "FAQs": [
+        [
+            "De onde surgiu a ideia do livro?",
+            "Lorem ipsum dolor sit amet disiciping aset  lorem ipsum dolor sit amet disicipist aset matar lot nami pacetr osma ufair careista asdas sao eifdj lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet disiciping aset  lorem ipsum dolor sit amet disicipist aset matar lot nami pacetr osma ufair careista asdas sao eifdj lorem ipsum dolor sit amet"
+        ],
+        [
+            "Qual foi a parte mais desafiadora de escrever?",
+            "Lorem ipsum dolor sit amet disiciping aset  lorem ipsum dolor sit amet disicipist aset matar lot nami pacetr osma ufair careista asdas sao eifdj lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet disiciping aset  lorem ipsum dolor sit amet disicipist aset matar lot nami pacetr osma ufair careista asdas sao eifdj lorem ipsum dolor sit amet"
+        ],
+        [
+            "Houve alguma influência literária?",
+            "Lorem ipsum dolor sit amet disiciping aset  lorem ipsum dolor sit amet disicipist aset matar lot nami pacetr osma ufair careista asdas sao eifdj lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet disiciping aset  lorem ipsum dolor sit amet disicipist aset matar lot nami pacetr osma ufair careista asdas sao eifdj lorem ipsum dolor sit amet"
+        ],
+        [
+            "Os personagens são baseados em pessoas reais?",
+            "Lorem ipsum dolor sit amet disiciping aset  lorem ipsum dolor sit amet disicipist aset matar lot nami pacetr osma ufair careista asdas sao eifdj lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet disiciping aset  lorem ipsum dolor sit amet disicipist aset matar lot nami pacetr osma ufair careista asdas sao eifdj lorem ipsum dolor sit amet"
+        ],
+        [
+            "Como você escolheu o título do livro?",
+            "Lorem ipsum dolor sit amet disiciping aset  lorem ipsum dolor sit amet disicipist aset matar lot nami pacetr osma ufair careista asdas sao eifdj lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet disiciping aset  lorem ipsum dolor sit amet disicipist aset matar lot nami pacetr osma ufair careista asdas sao eifdj lorem ipsum dolor sit amet"
+        ],
+        [
+            "Por que o livro tá demorando tanto?!",
+            "Lorem ipsum dolor sit amet disiciping aset  lorem ipsum dolor sit amet disicipist aset matar lot nami pacetr osma ufair careista asdas sao eifdj lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet disiciping aset  lorem ipsum dolor sit amet disicipist aset matar lot nami pacetr osma ufair careista asdas sao eifdj lorem ipsum dolor sit amet"
+        ]
+    ]
+}

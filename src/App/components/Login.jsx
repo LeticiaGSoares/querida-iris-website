@@ -1,6 +1,12 @@
+import {Content, AutoLayout, SectionHalf} from '../styles/Main'
+import {Title, Text} from '../styles/Main'
+
 const Login = () => {
     return (
-        <h1>Página Login</h1>
+        <Content>
+            <Title>Página Login</Title>
+            
+        </Content>
     )
 }
 

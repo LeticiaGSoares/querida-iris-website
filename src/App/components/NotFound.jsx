@@ -1,6 +1,11 @@
+import {Content, Title, Text, SectionHalf} from '../styles/Main'
+
 const NotFound = () => {
     return (
-        <h1>Página NotFound</h1>
+        <Content>
+                <Title>404: Página não encontrada</Title>
+        </Content>
+        
     )
 }
 

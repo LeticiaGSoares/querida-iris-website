@@ -1,6 +1,12 @@
+import {Content, AutoLayout, SectionHalf} from '../styles/Main'
+import {Title, Text} from '../styles/Main'
+
 const Author = () => {
     return (
-        <h1>Página Author</h1>
+        <Content>
+            <Title>Sobre a autora</Title>
+        </Content>
+        
     )
 }
 

@@ -42,13 +42,13 @@ function App() {
                         <Footer/>
                     </>
                 } />
-                <Route path="/galeria" element={
+                {/* <Route path="/galeria" element={
                     <>
                         <Header />
                         <Gallery />
                         <Footer/>
                     </>
-                } />
+                } /> */}
                 <Route path="/autora" element={
                     <>
                         <Header />

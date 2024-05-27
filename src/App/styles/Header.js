@@ -1,22 +1,17 @@
 import {styled} from 'styled-components'
+import { ColorPalette } from './ColorPalette'
 
 export const NavBar = styled.nav`
-    position:fixed;
-    z-index: 9999;
-    width: 100%;
     display: flex;
-    max-height: 104px;
-    flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: center;
-    padding: 20px;
-    background: linear-gradient(rgba(39, 116, 198, 0.93), transparent);
+    background-color: ${ColorPalette.colors.BarColor};
+    padding: 20px 5%;
 `
 
-export const NavImg = styled.img`
-    height: 60px;
-    width: 75px;
-    transition: all .2s ease-in-out;
+export const NavElement = styled.img`
+    height: 30px;
+    width: 30px;
     cursor: pointer;
 
     &&:hover{
@@ -26,4 +21,5 @@ export const NavImg = styled.img`
 
 export const NavLink = styled.a`
     text-decoration: none;
+    color: ${ColorPalette.colors.BarElements}
 `
